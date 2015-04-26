@@ -11,7 +11,7 @@ The goal of the first few months after graduation is to keep your skills sharp w
   - Write a twitter clone app from scratch matching as many features as you can from twitter.
  
 ###Ruby Assignments
-  - Take Final Assessment Quiz and feel condfident with results
+  - Take ["Final Assessment" Quiz](https://github.com/tiy-austin-ror-jan2015/postwork/blob/master/FinalAssessment.pdf) and feel condfident with results
   - Be able to write FizzBuzz on Paper (or Whiteboard)
   - Complete RubyKoans Start to Finish
   - Write Tic Tac Toe with tests and OO Practices.
