@@ -13,7 +13,7 @@ The goal of the first few months after graduation is to keep your skills sharp w
 ###Ruby Assignments
   - Take ["Final Assessment" Quiz](https://github.com/tiy-austin-ror-jan2015/postwork/blob/master/FinalAssessment.pdf) (with no computer) and feel condfident with results
   - Be able to write FizzBuzz on Paper (or Whiteboard)
-  - Complete RubyKoans Start to Finish
+  - Complete [RubyKoans](http://rubykoans.com/) Start to Finish
   - Write Tic Tac Toe with tests and OO Practices.
   - Write (a.k.a blog) about the importance of OO, SOLID, and Testing to good code bases. (A series of posts on these would work best)
  
