@@ -1,4 +1,6 @@
 #Intro
+Hey everyone, welcome to post work! Congrats on making it through the course and starting in the exciting career of software development. I'm so happy for all of you and look forward to hearing about your future adventures. I know the months after graduation are very chaotic and full of lots of job prep and interviews. What I've provided in this repo are resources, assignments, and (eventually) ideas to provide guidance in the months after the class has ended. __Also__ If you come across any really good resouces that have helped you that are not shown here, please submit a pull request. I hope these help you and I wish you all the best. Goodbye for now.
+ - Justin
 
 ##1 to 3 Months
 The goal of the first few months after graduation is to keep your skills sharp while you are looking for a job. That is why a lot of these assignments are things we have done in class. You are not tredding new ground, but are diving deeper and improving on your current skills. In addition to the assignments listed below, you should be completing one kata on CodeWars or 1 assignment from exercism every few days. I would start with 4 a week and if that is taking up too much time drop to 3 or 2. This habit of continual practice will be inavluable as you persue your career as a software developer.
