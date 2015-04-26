@@ -44,6 +44,7 @@ By this point you should be getting ready to come to the demo day of the cohort 
   - Read All of _Javascript The Good Parts_
  
 ###Resources
+  - Sign up for [Project Euler](https://projecteuler.net/)
   - Watch [Building a Gem](http://railscasts.com/episodes/245-new-gem-with-bundler)
   - Watch [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
   - Watch [Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)
