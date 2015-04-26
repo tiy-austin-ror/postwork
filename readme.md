@@ -33,11 +33,15 @@ By this point you should be getting ready to come to the demo day of the cohort 
 ###Rails Assignments
   - Write a rails app that contains zero additional gems. Perhaps clone a project we did towards the end of class. Build that functionality out with straight ruby classes in lib.
   - Write a gem! Its great practice and super easy with bundler.
+  - 
+  
 ###Ruby Assignments
   - Complete [Learning Ruby The Hard Way](http://learnrubythehardway.org/book/)
+  - Complete [Ruby Bits 1 & 2](https://www.codeschool.com/paths/ruby)
  
 ###Javascript Assignments
-
+  - Read All of _Eloquent Javascript_
+  - Read All of _Javascript The Good Parts_
  
 ###Resources
   - Watch [Building a Gem](http://railscasts.com/episodes/245-new-gem-with-bundler)
