@@ -64,7 +64,7 @@ _~*~\*~[Coming Soon]~\*~\*~_
 ####Assignments
 ####Resources
   - Read [Compiler Architechture](http://cs.lmu.edu/~ray/notes/compilerarchitecture/)
-  -
+  
   
 ##Javascript
 
