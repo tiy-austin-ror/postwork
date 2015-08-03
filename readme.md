@@ -4,7 +4,8 @@
 >  -- <cite>Justin</cite>
 
 ##1 to 3 Months
-The goal of the first few months after graduation is to keep your skills sharp while you are looking for a job. That is why a lot of these assignments are things we have done in class. You are not tredding new ground, but are diving deeper and improving on your current skills. In addition to the assignments listed below, you should be completing one kata on CodeWars or 1 assignment from exercism every few days. I would start with 4 a week and if that is taking up too much time drop to 3 or 2. This habit of continual practice will be inavluable as you persue your career as a software developer.
+The goal of the first few months after graduation is to keep your skills sharp while you are looking for a job. That is why a lot of these assignments are things we have done in class. You are not tredding new ground, but are diving deeper and improving on your current skills. In addition to the assignments listed below, you should be completing one kata on CodeWars or 1 assignment from exercism every few days. I would start by trying to make it a daily habit, if that isn't working then go with 4 a week. This habit of continual practice will be inavluable as you persue your career as a software developer.
+
 ###Rails Assignments
   - Complete [Michael Hartl Rails Tutorial](https://www.railstutorial.org/)
   - Listen to [10 years of rails with DHH](https://thechangelog.com/145/)
