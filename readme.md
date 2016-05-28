@@ -11,14 +11,15 @@ The goal of the first few months after graduation is to keep your skills sharp w
   - Listen to [10 years of rails with DHH](https://thechangelog.com/145/) if you haven't already.
   - Write a twitter clone app from scratch matching as many features as you can from twitter.
     - This app should be well covered by tests.
-    - Be sure to add direct messages between users and notifications.
+    - Be sure to add direct messages between users.
+    - Remember that twitter has notifications that you receive whenever someone RTs, Likes, or Replies to your post.
     - For an added challenge (and more SQL practice), write all your joins and `where` statements in SQL instead of using the built in active record methods.
 
 ###SQL Assignments
   - Go back over our prior notes on SQL from class.
   - Complete [SQL Teaching](https://www.sqlteaching.com/) Again.
   - Complete [SQL Course 1 & 2 on Code School](https://www.codeschool.com/learn/database)
-  - Read **All [13 parts of this Overview of Databases and SQL](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+  - Read **All** [13 parts of this Overview of Databases and SQL](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 
 ###Ruby Assignments
   - Take ["Final Assessment" Quiz](https://github.com/tiy-austin-ror-jan2015/postwork/blob/master/FinalAssessment.pdf) (with no computer) and feel condfident with results
