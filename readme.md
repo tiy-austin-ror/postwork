@@ -32,6 +32,7 @@ The goal of the first few months after graduation is to keep your skills sharp w
   - Sign up for [exercism](http://exercism.io/)
   - Sign up for [codewars](http://www.codewars.com/)
   - Sign up for [hackerrank](https://www.hackerrank.com/)
+  - Read Practical Object Oriented Programming In Ruby by Sandi Metz
  
  
 ##3 to 6 Months
@@ -52,6 +53,8 @@ By this point you should be getting ready to come to the demo day of the cohort 
   - Read Chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/)
   
 ####Resources
+  - Read Clean Code
+  - Read [SICP Book](https://xuanji.appspot.com/isicp/)
   - Read [Compiler Architechture](http://cs.lmu.edu/~ray/notes/compilerarchitecture/)
   
 
