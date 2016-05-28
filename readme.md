@@ -55,6 +55,3 @@ By this point you should be getting ready to come to the demo day of the cohort 
   - Read [Compiler Architechture](http://cs.lmu.edu/~ray/notes/compilerarchitecture/)
   
 
-
-
-> "Stay Hungry. Stay Foolish"
