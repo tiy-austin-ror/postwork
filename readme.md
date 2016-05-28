@@ -1,5 +1,5 @@
 #Intro
->Hey everyone, welcome to post work! Congrats on making it through the course and starting in the exciting career of software development. I'm so happy for all of you and look forward to hearing about your future adventures. I know the months after graduation are very chaotic and full of lots of job prep and interviews. What I've provided in this repo are resources, assignments, and (eventually) ideas to provide guidance in the months after the class has ended. __Also__ If you come across any really good resouces that have helped you that are not shown here, please submit a pull request. I hope these help you and I wish you all the best. Goodbye for now.
+>Hey everyone, welcome to post work! Congrats on making it through the course and starting in the exciting career of software development. I'm so happy for all of you and look forward to hearing about your future adventures. I know the months after graduation are very chaotic and full of lots of job prep and interviews. What I've provided in this repo are resources, assignments, and (eventually) ideas to provide guidance in the months after the class has ended. Pretty much all of these assignments could be followed up with a blog post explaining what you've learned to someone else. I strongly encourage making that a habit as well, not just blogging, but sharing what you are learning with others. __Also__ If you come across any really good resouces that have helped you that are not shown here, please submit a pull request. I hope these help you and I wish you all the best. Goodbye for now.
 >
 >  -- <cite>Justin</cite>
 
@@ -13,7 +13,13 @@ The goal of the first few months after graduation is to keep your skills sharp w
     - This app should be well covered by tests.
     - Be sure to add direct messages between users and notifications.
     - For an added challenge (and more SQL practice), write all your joins and `where` statements in SQL instead of using the built in active record methods.
- 
+
+###SQL Assignments
+  - Go back over our prior notes on SQL from class.
+  - Complete [SQL Teaching](https://www.sqlteaching.com/) Again.
+  - Complete [SQL Course 1 & 2 on Code School](https://www.codeschool.com/learn/database)
+  - Read **All [13 parts of this Overview of Databases and SQL](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+
 ###Ruby Assignments
   - Take ["Final Assessment" Quiz](https://github.com/tiy-austin-ror-jan2015/postwork/blob/master/FinalAssessment.pdf) (with no computer) and feel condfident with results
   - Be able to write FizzBuzz on Paper (or Whiteboard) forward and backward.
@@ -41,7 +47,10 @@ By this point you should be getting ready to come to the demo day of the cohort 
 ###Rails Assignments
   - Write a rails app that contains zero additional gems. Perhaps clone a project we did towards the end of class. Build that functionality out with straight ruby classes in lib.
   - Write a gem! Its great practice and super easy with bundler.
-  
+
+###SQL Assignments
+  - Complete [Learning SQL The Hard Way](http://sql.learncodethehardway.org/)
+
 ###Ruby Assignments
   - Complete [Learning Ruby The Hard Way](http://learnrubythehardway.org/book/)
  
