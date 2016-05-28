@@ -8,68 +8,51 @@ The goal of the first few months after graduation is to keep your skills sharp w
 
 ###Rails Assignments
   - Complete [Michael Hartl Rails Tutorial](https://www.railstutorial.org/)
-  - Listen to [10 years of rails with DHH](https://thechangelog.com/145/)
+  - Listen to [10 years of rails with DHH](https://thechangelog.com/145/) if you haven't already.
   - Write a twitter clone app from scratch matching as many features as you can from twitter.
+    - This app should be well covered by tests.
+    - Be sure to add direct messages between users and notifications.
+    - For an added challenge (and more SQL practice), write all your joins and `where` statements in SQL instead of using the built in active record methods.
  
 ###Ruby Assignments
   - Take ["Final Assessment" Quiz](https://github.com/tiy-austin-ror-jan2015/postwork/blob/master/FinalAssessment.pdf) (with no computer) and feel condfident with results
-  - Be able to write FizzBuzz on Paper (or Whiteboard)
-  - Complete [RubyKoans](http://rubykoans.com/) Start to Finish
+  - Be able to write FizzBuzz on Paper (or Whiteboard) forward and backward.
+  - Complete [RubyKoans](http://rubykoans.com/) Start to Finish all over again.
+  - Complete [Ruby Bits 1 & 2](https://www.codeschool.com/paths/ruby)
   - Write Tic Tac Toe with tests and OO Practices.
   - Write (a.k.a blog) about the importance of OO, SOLID, and Testing to good code bases. (A series of posts on these would work best)
- 
-###Javascript Assignments
-  - Complete [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1)
-  - Complete [Try jQuery](https://www.codeschool.com/courses/try-jquery)
-  - Read Chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/)
- 
+
 ###Resources
-   - Sign up for [starfighers](http://www.starfighters.io/)
-   - Sign up for [exercism](http://exercism.io/)
-   - Sign up for [codewars](http://www.codewars.com/)
- 
- 
-##3 to 6 Months
-By this point you should be getting ready to come to the demo day of the cohort that has come after you and you can impart words wof wisdom to them. The goal of these tasks and resources are to keep giving you someplace to go when you want to learn more. Resources to help your continued growth and to push you into new areas
-###Rails Assignments
-  - Write a rails app that contains zero additional gems. Perhaps clone a project we did towards the end of class. Build that functionality out with straight ruby classes in lib.
-  - Write a gem! Its great practice and super easy with bundler.
-  - 
-  
-###Ruby Assignments
-  - Complete [Learning Ruby The Hard Way](http://learnrubythehardway.org/book/)
-  - Complete [Ruby Bits 1 & 2](https://www.codeschool.com/paths/ruby)
- 
-###Javascript Assignments
-  - Read All of _Eloquent Javascript_
-  - Read All of _Javascript The Good Parts_
- 
-###Resources
-  - Sign up for [Project Euler](https://projecteuler.net/)
   - Watch [Building a Gem](http://railscasts.com/episodes/245-new-gem-with-bundler)
   - Watch [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
   - Watch [Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)
   - Read [Rules for Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
+  - Sign up for [Project Euler](https://projecteuler.net/)
+  - Sign up for [starfighers](http://www.starfighters.io/)
+  - Sign up for [exercism](http://exercism.io/)
+  - Sign up for [codewars](http://www.codewars.com/)
+  - Sign up for [hackerrank](https://www.hackerrank.com/)
+ 
+ 
+##3 to 6 Months
+By this point you should be getting ready to come to the demo day of the cohort that has come after you and you can impart words wof wisdom to them. The goal of these tasks and resources are to keep giving you someplace to go when you want to learn more. Resources to help your continued growth and to push you into new areas
 
-##6 Months to 1 Year
-_~*~\*~[Coming Soon]~\*~\*~_
-##Ruby
-####Assignments
-####Resources
-##Javascript
-####Assignments
-####Resources
-
-##1 Year Onward
-##Ruby
-####Assignments
+###Rails Assignments
+  - Write a rails app that contains zero additional gems. Perhaps clone a project we did towards the end of class. Build that functionality out with straight ruby classes in lib.
+  - Write a gem! Its great practice and super easy with bundler.
+  
+###Ruby Assignments
+  - Complete [Learning Ruby The Hard Way](http://learnrubythehardway.org/book/)
+ 
+###Javascript Assignments
+  - Read All of _Eloquent Javascript_
+  - Read All of _Javascript The Good Parts_
+  - Complete [Javascript Road Trip](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+  - Complete [Try jQuery](https://www.codeschool.com/courses/try-jquery)
+  - Read Chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/)
+  
 ####Resources
   - Read [Compiler Architechture](http://cs.lmu.edu/~ray/notes/compilerarchitecture/)
   
-  
-##Javascript
-
-####Assignments
-####Resources
 
 
