@@ -6,5 +6,5 @@
 - Clean Code
 - The Rspec Book
 - Understanding Computation
-
+- Rails 4 Testing Prescriptions
 
